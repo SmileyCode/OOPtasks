@@ -1,0 +1,35 @@
+# OOPtasks
+A lot of tasks for OOP
+1.1 - House 
+1.2 - Theme2/Point 
+1.3 - Human 
+1.4 - Theme2/Review 
+1.5 - ManWithName 
+2.1 - Theme2/Line 
+2.2 - ManWithDad 
+2.3 - Theme2/Task3 
+2.4 - Theme2/Review 
+2.5 - Theme2/Task5 
+3.1 - Theme3/ManWithManyNames 
+3.2 - Theme3/StudentWithMarks 
+3.3 - Theme3/StudentWithClasses 
+3.4 - Theme2/Task5 
+3.5 - Theme3/Task5 
+3.6 - Theme3/City 
+3.7 - Theme3/Publication 
+4.1 - Theme4/Pistol 
+4.2 - Theme4/Cat 
+4.3 - Theme2/Line 
+4.4 - Theme4/BrokenLine 
+4.5 - Theme4/Square 
+4.6 - Theme4/Singer 
+4.7 - Theme3/Task5 
+4.8 - Theme3/StudentWithMarks 
+5.1 - Theme2/Point 
+5.2 - Theme4/Cat 
+5.3 - Theme2/Line 
+5.4 - Theme3/ManWithManyNames 
+5.5 - Theme5/Quad 
+5.6 - Theme3/Publication 
+5.7 - Theme4/Singer 
+5.8 - Human
